@@ -1035,6 +1035,7 @@
 } .u-section-4 {
   background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/1N5A1212.jpg');
   background-position: 50% 50%;
+  min-height: 1267px;
 }
 
 .u-section-4 .u-text-1 {
@@ -1051,7 +1052,6 @@
 }
 
 .u-section-4 .u-table-1 {
-  width: 1199px;
   margin-top: 60px;
   margin-bottom: 0;
 }
@@ -1313,11 +1313,35 @@
   padding: 0;
 }
 
+.u-section-4 .u-table-cell-41 {
+  background-image: none;
+  padding: 10px 20px;
+}
+
+.u-section-4 .u-table-cell-42 {
+  background-image: none;
+  padding: 10px 20px;
+}
+
+.u-section-4 .u-table-cell-43 {
+  padding: 10px 20px;
+}
+
+.u-section-4 .u-table-cell-44 {
+  background-image: none;
+  padding: 10px 20px;
+}
+
+.u-section-4 .u-table-cell-45 {
+  background-image: none;
+  padding: 10px 20px;
+}
+
 .u-section-4 .u-table-footer-1 {
   background-image: none;
 }
 
-.u-section-4 .u-table-cell-41 {
+.u-section-4 .u-table-cell-46 {
   padding: 10px 20px;
 }
 
@@ -1332,7 +1356,7 @@
   padding: 11px 30px 12px;
 }
 
-.u-section-4 .u-table-cell-42 {
+.u-section-4 .u-table-cell-47 {
   padding: 10px 20px;
 }
 
@@ -1346,12 +1370,12 @@
   padding: 9px 30px 11px;
 }
 
-.u-section-4 .u-table-cell-43 {
+.u-section-4 .u-table-cell-48 {
   background-image: none;
   padding: 10px 20px;
 }
 
-.u-section-4 .u-table-cell-44 {
+.u-section-4 .u-table-cell-49 {
   padding: 10px 20px;
 }
 
@@ -1365,7 +1389,7 @@
   padding: 10px 30px 12px;
 }
 
-.u-section-4 .u-table-cell-45 {
+.u-section-4 .u-table-cell-50 {
   padding: 10px 20px;
 }
 
@@ -1387,14 +1411,14 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-4 {
+    min-height: 1045px;
+  }
+
   .u-section-4 .u-text-1 {
     font-size: 3rem;
     margin-left: calc(((100% - 940px) / 2));
     margin-right: calc(((100% - 940px) / 2));
-  }
-
-  .u-section-4 .u-table-1 {
-    width: auto;
   }
 
   .u-section-4 .u-table-cell-6 {
@@ -1536,6 +1560,26 @@
   .u-section-4 .u-table-cell-40 {
     border-style: dotted;
   }
+
+  .u-section-4 .u-table-cell-41 {
+    border-style: dotted;
+  }
+
+  .u-section-4 .u-table-cell-42 {
+    border-style: dotted;
+  }
+
+  .u-section-4 .u-table-cell-43 {
+    border-style: dotted;
+  }
+
+  .u-section-4 .u-table-cell-44 {
+    border-style: dotted;
+  }
+
+  .u-section-4 .u-table-cell-45 {
+    border-style: dotted;
+  }
 }
 
 @media (max-width: 991px) {
@@ -1559,7 +1603,6 @@
 
   .u-section-4 .u-table-1 {
     margin-top: 51px;
-    width: auto;
   }
 
   .u-section-4 .u-table-header-1 {
