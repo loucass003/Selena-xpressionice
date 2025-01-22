@@ -131,6 +131,7 @@
 .u-section-2 .u-image-1 {
   min-height: 363px;
   background-image: url("images/1N5A13952.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -164,6 +165,7 @@
 .u-section-2 .u-image-2 {
   min-height: 363px;
   background-image: url("images/1N5A1223.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -173,6 +175,7 @@
 .u-section-2 .u-image-3 {
   min-height: 363px;
   background-image: url("images/1N5A1212.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-4 {
