@@ -1,6 +1,5 @@
  .u-section-1 {
   background-image: url("images/1N5A1348.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -37,6 +36,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 484px;
   }
@@ -1109,7 +1112,6 @@
 .u-section-9 .u-text-5 {
   font-size: 1.25rem;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  font-weight: 400;
   margin: 21px 20px 0;
 }
 
@@ -1186,6 +1188,7 @@
 
   .u-section-9 .u-text-5 {
     margin-right: 0;
+    font-weight: 400;
   }
 
   .u-section-9 .u-text-6 {
