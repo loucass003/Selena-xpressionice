@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("images/1N5A13792.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -30,10 +31,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 471px;
   }
@@ -2474,11 +2471,11 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 411px;
+    min-height: 365px;
   }
 
   .u-section-6 .u-btn-1 {
-    margin-top: 222px;
+    margin-top: 177px;
     margin-left: 24px;
     padding: 12px 40px 13px 39px;
   }
