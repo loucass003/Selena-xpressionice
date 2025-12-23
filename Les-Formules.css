@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("images/1N5A14431.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -36,10 +37,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 428px;
   }
@@ -271,7 +268,7 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 412px;
+    min-height: 512px;
   }
 
   .u-section-2 .u-image-1 {
@@ -297,8 +294,14 @@
   }
 
   .u-section-2 .u-text-1 {
-    margin-left: 30px;
-    margin-right: 30px;
+    width: 103px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 1.125rem;
   }
 
   .u-section-2 .u-image-2 {
@@ -310,13 +313,42 @@
   }
 
   .u-section-2 .u-group-2 {
-    width: 207px;
-    margin-right: 0;
+    width: 174px;
+    min-height: 83px;
+    margin-top: -64px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.125rem;
+    margin-right: 38px;
+    margin-left: 44px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    font-size: 1.25rem;
   }
 
   .u-section-2 .u-group-3 {
-    width: 207px;
+    width: 174px;
+    min-height: 83px;
+    margin-top: -83px;
     margin-right: 0;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-3 {
+    font-size: 1.125rem;
+    margin-right: 38px;
+    margin-left: 44px;
   }
 }
 
@@ -341,36 +373,30 @@
   .u-section-2 .u-image-3 {
     min-height: 590px;
   }
-
-  .u-section-2 .u-container-layout-5 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-container-layout-6 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 765px;
+    min-height: 1237px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 91px;
   }
 
   .u-section-2 .u-image-1 {
-    min-height: 371px;
+    min-height: 414px;
   }
 
   .u-section-2 .u-group-1 {
-    width: 208px;
-    margin: 255px auto -25px;
+    width: 294px;
+    margin: 260px auto -30px;
   }
 
   .u-section-2 .u-text-1 {
     width: auto;
-    margin-right: 21px;
-    margin-left: 10px;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 
   .u-section-2 .u-image-2 {
@@ -382,11 +408,29 @@
   }
 
   .u-section-2 .u-group-2 {
+    width: 298px;
+    min-height: 63px;
+    margin-top: -406px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 202px;
+    margin-top: 16px;
+    margin-left: auto;
     margin-right: auto;
   }
 
   .u-section-2 .u-group-3 {
-    margin-right: 24px;
+    width: 279px;
+    min-height: 68px;
+    margin-top: 302px;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: 182px;
+    margin-left: auto;
+    margin-right: auto;
   }
 } .u-section-3 {
   background-position: 50% 50%;
@@ -694,11 +738,13 @@
 
   .u-section-5 .u-image-1 {
     height: 342px;
+    margin-top: 8px;
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-5 .u-text-1 {
+    margin-top: 33px;
     margin-right: 0;
     margin-left: auto;
   }
@@ -716,11 +762,13 @@
 
   .u-section-5 .u-image-2 {
     height: 342px;
+    margin-top: 8px;
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-5 .u-text-3 {
+    margin-top: 33px;
     margin-right: 0;
     margin-left: auto;
   }
@@ -781,12 +829,13 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1054px;
+    min-height: 878px;
   }
 
   .u-section-5 .u-list-1 {
-    margin-top: 30px;
     width: 340px;
+    margin-top: 31px;
+    margin-bottom: 31px;
   }
 
   .u-section-5 .u-repeater-1 {
@@ -994,12 +1043,12 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 99px;
+    min-height: 138px;
   }
 
   .u-section-7 .u-text-1 {
     font-size: 1.875rem;
-    margin: 32px 30px;
+    margin: 69px auto 33px;
   }
 } .u-section-8 {
   background-image: linear-gradient(to bottom, #ffffff, #fef3e8), linear-gradient(to bottom, rgba(242, 242, 242, 1), rgba(242, 242, 242, 1));
@@ -1539,13 +1588,13 @@
 
 @media (max-width: 575px) {
   .u-section-10 .u-sheet-1 {
-    min-height: 98px;
+    min-height: 133px;
   }
 
   .u-section-10 .u-text-1 {
     font-size: 1.875rem;
     width: auto;
-    margin: 31px 17px;
+    margin: 66px 17px 31px;
   }
 } .u-section-11 {
   background-position: 50% 50%;
