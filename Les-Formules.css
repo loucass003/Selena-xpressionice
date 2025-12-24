@@ -1,5 +1,6 @@
  .u-section-1 {
   background-image: url("images/1N5A14431.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -36,10 +37,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 428px;
   }
@@ -388,7 +385,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 900px;
+    min-height: 1570px;
   }
 
   .u-section-2 .u-image-1 {
@@ -403,13 +400,27 @@
     min-height: 503px;
   }
 
+  .u-section-2 .u-group-1 {
+    margin-top: -541px;
+  }
+
   .u-section-2 .u-text-1 {
     width: 202px;
     margin-top: 16px;
   }
 
+  .u-section-2 .u-group-2 {
+    margin-top: 438px;
+    margin-right: auto;
+  }
+
   .u-section-2 .u-text-2 {
     width: 182px;
+  }
+
+  .u-section-2 .u-group-3 {
+    margin-top: -1089px;
+    margin-left: auto;
   }
 
   .u-section-2 .u-text-3 {
@@ -2532,12 +2543,12 @@
 
 @media (max-width: 575px) {
   .u-section-13 .u-sheet-1 {
-    min-height: 133px;
+    min-height: 122px;
   }
 
   .u-section-13 .u-text-1 {
     font-size: 1.875rem;
-    margin: 66px 17px 31px;
+    margin: 50px 17px 0;
   }
 } .u-section-14 {
   background-position: 50% 50%;
@@ -2620,6 +2631,7 @@
   font-size: 1.25rem;
   filter: none;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: 400;
   margin: 41px 20px 0;
 }
 
@@ -2652,6 +2664,7 @@
   font-size: 1.25rem;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   filter: none;
+  font-weight: 400;
   margin: 41px 20px 0;
 }
 
@@ -2737,7 +2750,6 @@
   }
 
   .u-section-14 .u-text-3 {
-    font-weight: 400;
     margin-right: 0;
     margin-left: 0;
   }
@@ -2757,7 +2769,6 @@
   }
 
   .u-section-14 .u-text-5 {
-    font-weight: 400;
     margin-right: 0;
     margin-left: 0;
   }
@@ -2952,17 +2963,18 @@
 
 @media (max-width: 575px) {
   .u-section-14 .u-sheet-1 {
-    min-height: 3281px;
+    min-height: 2226px;
   }
 
   .u-section-14 .u-list-1 {
-    margin-top: 30px;
-    margin-bottom: -12px;
+    margin-top: 54px;
+    margin-bottom: -24px;
   }
 
   .u-section-14 .u-repeater-1 {
     grid-template-columns: 100%;
     grid-auto-columns: calc(100% + 0px);
+    min-height: 2196px;
   }
 
   .u-section-14 .u-container-layout-1 {
