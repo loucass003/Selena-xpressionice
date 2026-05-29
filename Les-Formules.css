@@ -384,6 +384,14 @@
   .u-section-2 .u-image-3 {
     min-height: 799px;
   }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.1111111111111112rem;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.1111111111111112rem;
+  }
 }
 
 @media (max-width: 575px) {
@@ -2034,7 +2042,7 @@
 .u-section-11 .u-list-item-2 {
   transition-duration: 0.5s;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
-  margin-top: 14px;
+  margin-top: 28px;
   margin-bottom: 0;
 }
 
@@ -2066,7 +2074,7 @@
 .u-section-11 .u-list-item-3 {
   transition-duration: 0.5s;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
-  margin-top: 14px;
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -2723,7 +2731,7 @@
 
 .u-section-14 .u-image-1 {
   min-height: 475px;
-  background-image: url("images/Capturedcran2024-10-03094700.png");
+  background-image: url("images/campanile-prime-montpellier2.jpg");
   --radius: 100px;
   background-position: 50% 50%;
 }

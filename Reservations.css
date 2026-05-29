@@ -496,15 +496,8 @@
   margin: 13px auto 0;
 }
 
-.u-section-3 .u-text-3 {
-  font-size: 2.25rem;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  width: 624px;
-  margin: 36px auto 0;
-}
-
 .u-section-3 .u-table-1 {
-  margin-top: 22px;
+  margin-top: 137px;
   margin-bottom: 60px;
 }
 
@@ -863,14 +856,8 @@
     font-size: 3rem;
   }
 
-  .u-section-3 .u-text-3 {
-    margin-top: 62px;
-    margin-right: calc(((100% - 940px) / 2)  + 159px);
-    margin-left: calc(((100% - 940px) / 2)  + 534px);
-  }
-
   .u-section-3 .u-table-1 {
-    margin-top: -83px;
+    margin-top: 58px;
     margin-bottom: -191px;
   }
 
@@ -1017,14 +1004,8 @@
     width: 720px;
   }
 
-  .u-section-3 .u-text-3 {
-    margin-top: -1px;
-    margin-right: calc(((100% - 720px) / 2)  + 49px);
-    margin-left: calc(((100% - 720px) / 2)  + 314px);
-  }
-
   .u-section-3 .u-table-1 {
-    margin-top: -97px;
+    margin-top: -19px;
     margin-bottom: -331px;
   }
 
@@ -1067,15 +1048,8 @@
     width: 540px;
   }
 
-  .u-section-3 .u-text-3 {
-    margin-top: -30px;
-    margin-right: calc(((100% - 540px) / 2));
-    margin-left: calc(((100% - 540px) / 2)  + 134px);
-    width: 540px;
-  }
-
   .u-section-3 .u-table-1 {
-    margin-top: -28px;
+    margin-top: 21px;
     margin-bottom: -549px;
   }
 }
@@ -1094,13 +1068,6 @@
   .u-section-3 .u-text-2 {
     width: 340px;
     margin-top: 0;
-  }
-
-  .u-section-3 .u-text-3 {
-    margin-top: 0;
-    margin-right: auto;
-    margin-left: calc(((100% - 340px) / 2));
-    width: 340px;
   }
 
   .u-section-3 .u-table-1 {
@@ -1167,15 +1134,8 @@
   margin: 20px auto 0;
 }
 
-.u-section-4 .u-text-3 {
-  font-size: 2.25rem;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  width: 624px;
-  margin: 50px auto 0;
-}
-
 .u-section-4 .u-table-1 {
-  margin-top: 71px;
+  margin-top: 200px;
   margin-bottom: 0;
 }
 
@@ -1522,16 +1482,6 @@
     font-size: 3rem;
   }
 
-  .u-section-4 .u-text-3 {
-    margin-top: 571px;
-    margin-right: calc(((100% - 940px) / 2)  + -274px);
-    margin-left: calc(((100% - 940px) / 2)  + 590px);
-  }
-
-  .u-section-4 .u-table-1 {
-    margin-top: -450px;
-  }
-
   .u-section-4 .u-table-cell-7 {
     border-style: dotted;
   }
@@ -1689,14 +1639,8 @@
     margin-right: calc(((100% - 720px) / 2)  + -1px);
   }
 
-  .u-section-4 .u-text-3 {
-    margin-top: 389px;
-    margin-right: calc(((100% - 720px) / 2)  + -274px);
-    margin-left: calc(((100% - 720px) / 2)  + 370px);
-  }
-
   .u-section-4 .u-table-1 {
-    margin-top: -436px;
+    margin-top: 32px;
   }
 
   .u-section-4 .u-table-header-1 {
@@ -1749,17 +1693,6 @@
     margin-right: calc(((100% - 540px) / 2)  + -48px);
   }
 
-  .u-section-4 .u-text-3 {
-    width: 540px;
-    margin-top: 84px;
-    margin-left: calc(((100% - 540px) / 2));
-    margin-right: calc(((100% - 540px) / 2));
-  }
-
-  .u-section-4 .u-table-1 {
-    margin-top: -131px;
-  }
-
   .u-section-4 .u-icon-5 {
     margin-top: 809px;
   }
@@ -1786,13 +1719,6 @@
     margin-top: 0;
     margin-left: calc(((100% - 340px) / 2)  + -48px);
     margin-right: calc(((100% - 340px) / 2)  + -48px);
-  }
-
-  .u-section-4 .u-text-3 {
-    width: 340px;
-    margin-top: 0;
-    margin-left: calc(((100% - 340px) / 2));
-    margin-right: calc(((100% - 340px) / 2));
   }
 
   .u-section-4 .u-table-1 {
@@ -1884,15 +1810,8 @@
   margin: 20px auto 0;
 }
 
-.u-section-5 .u-text-3 {
-  font-size: 2.25rem;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  width: 624px;
-  margin: 54px auto 0;
-}
-
 .u-section-5 .u-table-1 {
-  margin-top: 65px;
+  margin-top: 198px;
   margin-bottom: 60px;
 }
 
@@ -2240,14 +2159,7 @@
     margin-right: calc(((100% - 940px) / 2));
   }
 
-  .u-section-5 .u-text-3 {
-    margin-top: 85px;
-    margin-right: calc(((100% - 940px) / 2)  + 71px);
-    margin-left: calc(((100% - 940px) / 2)  + 245px);
-  }
-
   .u-section-5 .u-table-1 {
-    margin-top: 34px;
     margin-bottom: -79px;
   }
 }
@@ -2276,14 +2188,8 @@
     margin-left: calc(((100% - 720px) / 2));
   }
 
-  .u-section-5 .u-text-3 {
-    margin-top: -37px;
-    margin-right: calc(((100% - 720px) / 2));
-    margin-left: calc(((100% - 720px) / 2)  + 96px);
-  }
-
   .u-section-5 .u-table-1 {
-    margin-top: -7px;
+    margin-top: 35px;
     margin-bottom: -194px;
   }
 }
@@ -2308,15 +2214,7 @@
     margin-right: calc(((100% - 540px) / 2));
   }
 
-  .u-section-5 .u-text-3 {
-    width: 540px;
-    margin-top: -205px;
-    margin-left: calc(((100% - 540px) / 2));
-    margin-right: calc(((100% - 540px) / 2));
-  }
-
   .u-section-5 .u-table-1 {
-    margin-top: 161px;
     margin-bottom: -570px;
   }
 }
@@ -2339,13 +2237,6 @@
 
   .u-section-5 .u-text-2 {
     font-size: 0.75rem;
-    margin-top: 0;
-    margin-left: calc(((100% - 340px) / 2));
-    margin-right: calc(((100% - 340px) / 2));
-  }
-
-  .u-section-5 .u-text-3 {
-    width: 340px;
     margin-top: 0;
     margin-left: calc(((100% - 340px) / 2));
     margin-right: calc(((100% - 340px) / 2));
@@ -2388,15 +2279,8 @@
   margin: 20px auto 0;
 }
 
-.u-section-6 .u-text-3 {
-  font-size: 2.25rem;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  width: 624px;
-  margin: 44px auto 0;
-}
-
 .u-section-6 .u-table-1 {
-  margin-top: 59px;
+  margin-top: 182px;
   margin-bottom: 60px;
 }
 
@@ -2748,14 +2632,7 @@
     margin-right: calc(((100% - 940px) / 2));
   }
 
-  .u-section-6 .u-text-3 {
-    margin-top: 111px;
-    margin-right: calc(((100% - 940px) / 2)  + 103px);
-    margin-left: calc(((100% - 940px) / 2)  + 213px);
-  }
-
   .u-section-6 .u-table-1 {
-    margin-top: -8px;
     margin-bottom: -50px;
   }
 }
@@ -2788,14 +2665,8 @@
     margin-left: calc(((100% - 720px) / 2));
   }
 
-  .u-section-6 .u-text-3 {
-    margin-top: 1px;
-    margin-right: calc(((100% - 720px) / 2));
-    margin-left: calc(((100% - 720px) / 2)  + 96px);
-  }
-
   .u-section-6 .u-table-1 {
-    margin-top: -45px;
+    margin-top: 35px;
     margin-bottom: -171px;
   }
 }
@@ -2820,15 +2691,7 @@
     margin-right: calc(((100% - 540px) / 2));
   }
 
-  .u-section-6 .u-text-3 {
-    width: 540px;
-    margin-top: -164px;
-    margin-left: calc(((100% - 540px) / 2));
-    margin-right: calc(((100% - 540px) / 2));
-  }
-
   .u-section-6 .u-table-1 {
-    margin-top: 120px;
     margin-bottom: -542px;
   }
 }
@@ -2855,13 +2718,6 @@
 
   .u-section-6 .u-text-2 {
     font-size: 0.75rem;
-    margin-top: 0;
-    margin-left: calc(((100% - 340px) / 2));
-    margin-right: calc(((100% - 340px) / 2));
-  }
-
-  .u-section-6 .u-text-3 {
-    width: 340px;
     margin-top: 0;
     margin-left: calc(((100% - 340px) / 2));
     margin-right: calc(((100% - 340px) / 2));
