@@ -1193,14 +1193,14 @@
 } .u-section-5 {
   background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/ChatGPTImage2juin202611_49_59.png');
   background-position: 50% 50%;
-  min-height: 1412px;
+  min-height: 1406px;
 }
 
 .u-section-5 .u-text-1 {
   font-size: 4.5rem;
   font-weight: 400;
   width: 764px;
-  margin: 31px auto 0;
+  margin: 34px auto 0;
 }
 
 .u-section-5 .u-text-2 {
@@ -1212,7 +1212,7 @@
 
 .u-section-5 .u-table-1 {
   margin-top: 200px;
-  margin-bottom: 0;
+  margin-bottom: 60px;
 }
 
 .u-block-32c8-49 {
@@ -1535,27 +1535,17 @@
   font-weight: 400;
 }
 
-.u-section-5 .u-icon-5 {
-  font-size: 1.2em;
-  height: 26px;
-  width: 1240px;
-  margin: -67px auto 0;
-}
-
-.u-section-5 .u-icon-6 {
-  font-size: 1.125em;
-  height: 25px;
-  width: 1240px;
-  margin: 0 auto 60px;
-}
-
 @media (max-width: 1199px) {
    .u-section-5 {
-    min-height: 1164px;
+    min-height: 1159px;
   }
 
   .u-section-5 .u-text-1 {
     font-size: 3rem;
+  }
+
+  .u-section-5 .u-table-1 {
+    margin-bottom: -121px;
   }
 
   .u-section-5 .u-table-cell-7 {
@@ -1685,21 +1675,11 @@
   .u-section-5 .u-table-cell-45 {
     border-style: dotted;
   }
-
-  .u-section-5 .u-icon-5 {
-    font-size: 1.2rem;
-    margin-top: 477px;
-  }
-
-  .u-section-5 .u-icon-6 {
-    font-size: 1.125rem;
-    margin-bottom: -624px;
-  }
 }
 
 @media (max-width: 991px) {
    .u-section-5 {
-    min-height: 892px;
+    min-height: 888px;
   }
 
   .u-section-5 .u-text-1 {
@@ -1717,6 +1697,7 @@
 
   .u-section-5 .u-table-1 {
     margin-top: 32px;
+    margin-bottom: -171px;
   }
 
   .u-section-5 .u-table-header-1 {
@@ -1742,24 +1723,16 @@
   .u-section-5 .u-btn-4 {
     font-size: 0.75rem;
   }
-
-  .u-section-5 .u-icon-5 {
-    margin-top: 487px;
-  }
-
-  .u-section-5 .u-icon-6 {
-    margin-bottom: -702px;
-  }
 }
 
 @media (max-width: 767px) {
    .u-section-5 {
-    min-height: 669px;
+    min-height: 666px;
   }
 
   .u-section-5 .u-text-1 {
     font-size: 2.25rem;
-    margin-top: 197px;
+    margin-top: 200px;
     margin-left: calc(((100% - 540px) / 2)  + -48px);
     margin-right: calc(((100% - 540px) / 2)  + -48px);
   }
@@ -1769,23 +1742,19 @@
     margin-right: calc(((100% - 540px) / 2)  + -48px);
   }
 
-  .u-section-5 .u-icon-5 {
-    margin-top: 809px;
-  }
-
-  .u-section-5 .u-icon-6 {
-    margin-bottom: -1376px;
+  .u-section-5 .u-table-1 {
+    margin-bottom: -542px;
   }
 }
 
 @media (max-width: 575px) {
    .u-section-5 {
-    min-height: 421px;
+    min-height: 419px;
   }
 
   .u-section-5 .u-text-1 {
     font-size: 1.5rem;
-    margin-top: -1px;
+    margin-top: 0;
     margin-left: calc(((100% - 340px) / 2)  + -48px);
     margin-right: calc(((100% - 340px) / 2)  + -48px);
   }
@@ -1799,6 +1768,7 @@
 
   .u-section-5 .u-table-1 {
     margin-top: 0;
+    margin-bottom: 0;
   }
 
   .u-section-5 .u-table-header-1 {
@@ -1851,14 +1821,6 @@
 
   .u-section-5 .u-btn-8 {
     font-size: 0.625rem;
-  }
-
-  .u-section-5 .u-icon-5 {
-    margin-top: 0;
-  }
-
-  .u-section-5 .u-icon-6 {
-    margin-bottom: 0;
   }
 } .u-section-6 {
   background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/ChatGPTImage2juin202612_16_39.png');
