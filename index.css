@@ -65,7 +65,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 487px;
+  min-height: 513px;
 }
 
 .u-section-2 .u-text-1 {
@@ -78,13 +78,13 @@
   font-size: 1.875rem;
   font-weight: 300;
   font-style: italic;
-  width: 498px;
-  margin: 39px auto 0;
+  width: 694px;
+  margin: 50px auto 0;
 }
 
 .u-section-2 .u-text-3 {
   font-size: 2.25rem;
-  margin: 55px 59px 60px 75px;
+  margin: 45px 59px 60px 75px;
 }
 
 @media (max-width: 1199px) {
